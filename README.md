@@ -1,8 +1,10 @@
-# Proyek-Open-Source-ecommerce
-aplikasi ini cocok untuk pengelolaan penjualan meliputi:
-1. login
-2. crud
-3. petugas
-4. print
-5. excel
-6. edit toko
+Aplikasi ini merupakan solusi pengelolaan penjualan yang mencakup fitur lengkap seperti:
+
+    Login: Sistem autentikasi untuk mengamankan akses pengguna.
+    CRUD: Kelola produk, pelanggan, dan transaksi dengan fitur Create, Read, Update, dan Delete.
+    Petugas: Manajemen peran dan akses petugas dalam sistem.
+    Print: Cetak laporan dan struk transaksi.
+    Excel: Ekspor data dalam format Excel untuk analisis lebih lanjut.
+    Edit Toko: Sesuaikan informasi dan pengaturan toko sesuai kebutuhan.
+
+    
