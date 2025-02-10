@@ -8,3 +8,4 @@ Aplikasi ini merupakan solusi pengelolaan penjualan yang mencakup fitur lengkap 
     Edit Toko: Sesuaikan informasi dan pengaturan toko sesuai kebutuhan.
 
     
+Aplikasi eCommerce ini dikembangkan menggunakan PHP sebagai bahasa pemrogramannya dan MySQL sebagai sistem manajemen databasenya. PHP digunakan untuk menangani logika bisnis, seperti autentikasi pengguna, pengelolaan produk, transaksi, serta fitur lainnya. Sementara itu, MySQL digunakan untuk menyimpan dan mengelola data dengan struktur yang terorganisir, sehingga aplikasi dapat berjalan dengan lancar dan efisien.
